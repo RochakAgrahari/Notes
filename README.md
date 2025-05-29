@@ -3,7 +3,7 @@
 This is a lightweight, responsive React-based note-taking app that allows users to **add**, **edit**, **delete**, and **view** notes using `localStorage`—no backend required. Designed as a 2-hour mini-project with a focus on clear UI, component modularity, and simple state management.
 
 ## 🚀 Live Demo
-[Live Site](https://app.netlify.com/sites/spectacular-cocada-827489/overview)
+[Live Site](https://spectacular-cocada-827489.netlify.app/)
 
 ## 📂 GitHub Repo
 [GitHub Repository](https://github.com/RochakAgrahari/Notes)
